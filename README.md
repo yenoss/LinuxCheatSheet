@@ -1,0 +1,2 @@
+# LinuxCheatSheet
+for linxu newbie
