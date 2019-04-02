@@ -13,8 +13,8 @@ for linxu newbie
   
   
 ### bash
-* $?
- * print previous [exitCode number]( https://www.tldp.org/LDP/abs/html/exitcodes.html).
+* echo $?
+  * print previous [exitCode number]( https://www.tldp.org/LDP/abs/html/exitcodes.html).
  
 
   
